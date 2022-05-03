@@ -30,3 +30,9 @@ Ubuntu 18.04.4 LTS
 ## 运行linux
 
 在oslab目录下执行： `./run`
+
+## 参考资料
+
+[1] [中国大学MOOC《操作系统》李治军 哈尔滨工业大学](https://www.icourse163.org/course/HIT-1002531008?tid=1003635010)
+[2] 《Linux内核完全注释》赵炯
+[3] [源码及实验环境下载地址](https://www.icourse163.org/learn/HIT-1002531008?tid=1003635010#/learn/custom?id=1004066001)

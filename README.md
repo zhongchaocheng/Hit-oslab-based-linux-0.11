@@ -21,7 +21,7 @@
 
 ## 实验环境
 
-Ubuntu 18.04.4 LTS
+Ubuntu 20.04 LTS
 
 ## 编译linux
 
